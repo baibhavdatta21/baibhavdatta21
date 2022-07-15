@@ -1,7 +1,7 @@
 ##Brief Information
 
-👋 Hi it's Baibhav, Welcome to my profile!
-👀 I love problem solving and ML.
+##👋 Hi it's Baibhav, Welcome to my profile!
+##👀 I love problem solving and ML.
 🌱 I’m currently trying to focus on ML and CP.
 👩‍💻 I practice Data Structures and Algortihms in C++.
 💻 I am interested in domain of Machine Learning and Web Development.
